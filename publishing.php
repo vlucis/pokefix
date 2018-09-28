@@ -21,7 +21,7 @@
         </div>
         <div class="input-container">
 
-        <form action="publishing.php" method="POST">
+        <form action="https://github.com/vlucis/pokefix/blob/master/publishing.php" method="POST">
             <p>URL(Single):</p>
             <input id="input-url" name="url" value="<?php echo htmlspecialchars($url); ?>">
             
